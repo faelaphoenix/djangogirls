@@ -4,7 +4,7 @@ Desenvolvimento de uma aplicação web simples e funcional: um blog próprio fei
 
 ## Ferramentas utilizadas:
 * Python 3.4
-* Django 1.8
+* Django 2.0.6
 
 Aplicação disponível na Python Anywhere no [link] (http://faelaphoenix.pythonanywhere.com/)<br>
 Mais informações sobre o Tutorial no [link](http://tutorial.djangogirls.org/pt/django_installation/index.html) 
